@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... YeEnjie
 - 💬 Ask me about ... any questions like Minecraft Server :D
 - 📫 How to reach me: ... xiaoniao@caner.hk or xiaoniao@codpi.icu
-- 😄 Pronouns: ... idk what's that mean, my English is not good =(
+- 😄 Pronouns: ... he / his
 - ⚡ Fun fact: ... i used a AP(Huawei WS5200 4C Ver) for my computer's wireless adapter
 
