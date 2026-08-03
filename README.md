@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-**xiaoniaoawa/xiaoniaoawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... CWC(Caner Weather Channel) @Caner-HK
-- 🌱 I’m currently learning ... a thing that i'm learning
-- 👯 I’m looking to collaborate on ... what?
-- 💬 Ask me about ... any questions like Minecraft Server :D
-- 📫 How to reach me: ... xiaoniao@caner.hk
-- 😄 Pronouns: ... he / his
-- ⚡ Fun fact: ... i used a AP(Huawei WS5200 4C Ver) for my computer's wireless adapter
-
+- 🔭 I’m currently working on my student life and Kigurumi
+- 🌱 I’m currently learning ... idk.
+- 👯 I’m looking to collaborate on ... Kigurumi
+- 💬 Ask me about ... any questions.
+- 📫 How to reach me: ... xiaoniao@codpi.cn
+- 😄 Pronouns: ... he / his / him
+- ⚡ Fun fact: ... I created this account on September 2nd, 2022. At that time, i was a grade 4 primary school student!
